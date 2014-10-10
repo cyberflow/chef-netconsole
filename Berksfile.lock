@@ -1,0 +1,9 @@
+DEPENDENCIES
+  netconsole
+    path: .
+    metadata: true
+
+GRAPH
+  modules (0.2.0)
+  netconsole (0.1.1)
+    modules (>= 0.0.0)
