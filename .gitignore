@@ -1,5 +1,3 @@
 .kitchen/
 .kitchen.local.yml
-Berksfile.lock
-Gemfile.lock
 tmp/
