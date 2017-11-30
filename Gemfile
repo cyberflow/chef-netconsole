@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'berkshelf', '~>3.1.0'
+gem 'berkshelf'
 gem 'strainer'
 gem 'foodcritic'
 gem 'minitest'
